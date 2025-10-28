@@ -1,4 +1,4 @@
-# NaturalLanguage-to-CAD Generator
+# NaturalLanguage-to-CADJSON
 
 This repository provides a Python package for a deep learning model that generates structured JSON data for Computer-Aided Design (CAD) from natural language prompts.
 
