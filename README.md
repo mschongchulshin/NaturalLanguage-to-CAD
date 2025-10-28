@@ -1,8 +1,14 @@
-# CAD JSON 생성기
+# NaturalLanguage-to-CAD Generator
 
-자연어 프롬프트를 입력하면, 학습된 언어 모델을 사용하여 CAD 도면 생성을 위한 JSON 데이터를 반환합니다.
+This repository provides a Python package for a deep learning model that generates structured JSON data for Computer-Aided Design (CAD) from natural language prompts.
 
-## 설치
+---
+
+### ## Installation
+
+You can install the package directly from this GitHub repository using pip:
 
 ```bash
-pip install git+[https://github.com/mschongchulshin/finetuningcadtest20250909.git](https://github.com/mschongchulshin/finetuningcadtest20250909.git)
+pip install git+[https://github.com/mschongchulshin/NaturalLanguage-to-CAD.git](https://github.com/mschongchulshin/NaturalLanguage-to-CAD.git)
+
+contact: saekomi5@korea.ac.kr
